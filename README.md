@@ -11,7 +11,7 @@
 - 🏦 I'm a FullStack Web Dev working for a Crypto startup in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.js**, **.ts**, **.psql**
-- 💬 Talk to me about starts, physics, philosophy, BojackHorseman Show & books you are reading!
+- 💬 Talk to me about stars, physics, philosophy, BojackHorseman Show & books you are reading!
 - 👯 We can connect to touch green grass in the park, or maybe at gym 🏋️
 - ⚡ Fun fact: Ich sprechen Deutsche
 - 🧑‍💻 Tech I work on :
